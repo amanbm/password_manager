@@ -38,7 +38,7 @@ except:
 while True:
     print("*"*15)
     print("COMMANDS:")
-    print("q = quite the program")
+    print("q = quit the program")
     print("gp = get password")
     print("sp = store password")
     print("*"*15)
